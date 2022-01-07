@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhiMishra-Now
+- 👋 Hi, I’m Abhishek Mishra
 - 👀 I’m interested in ...web devlopment , A.I, Android and Ios devlopment.
 - 🌱 I’m currently learning ...AWS, A.I, MERN STACK.
 - 💞️ I’m looking to collaborate on ...
