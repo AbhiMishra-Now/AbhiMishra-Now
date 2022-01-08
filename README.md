@@ -2,10 +2,10 @@
 
 
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966](https://user-images.githubusercontent.com/79761277/148653539-fe81ffff-7f6a-4a06-80f0-59891a1a04f2.gif)
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966] 
 
 
-- 👋 Hi, I’m Abhishek Mishra
+- 👋 Hi, I’m Abhishek Mishra (https://user-images.githubusercontent.com/79761277/148653539-fe81ffff-7f6a-4a06-80f0-59891a1a04f2.gif)
 - 👀 I’m interested in ...web devlopment , A.I, Android and Ios devlopment.
 - 🌱 I’m currently learning ...AWS, A.I, MERN STACK.
 - 💞️ I’m looking to collaborate on ...
