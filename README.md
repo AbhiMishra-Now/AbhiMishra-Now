@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishek-mishra-0230061ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-mishra-0230061ab/" height="30" width="40" /></a>
  
-<a href="https://instagram.com/abhimishra4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_abhimishra4u" height="30" width="40" /></a>
+<a href="https://instagram.com/me_abhimishra4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_abhimishra4u" height="30" width="40" /></a>
  
 <a href="https://www.hackerrank.com/@abhim123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Abhim123" height="30" width="40" /></a>
  
