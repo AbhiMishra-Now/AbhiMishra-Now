@@ -57,9 +57,9 @@
  </a> 
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhimishra-now&show_icons=true&locale=en&layout=compact" alt="abhimishra-now" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhimishra-Now&show_icons=true&locale=en&layout=compact" alt="abhimishra-now" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhimishra-now&show_icons=true&locale=en" alt="abhimishra-now" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhimishra-Now&show_icons=true&locale=en" alt="abhimishra-now" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhimishra-now&" alt="abhimishra-now" /></p>
 
