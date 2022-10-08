@@ -3,7 +3,9 @@
  <h1 align="center">Hi👋नमस्ते 🙏, I'm Abhishek Mishra</h1>
 <h3 align="center">An enthusiastic Software developer from India</h3>
 
-- 🌱 I’m currently learning ** A.I, MERN STACK.**
+* 🌱  I’m currently learning ** A.I, MERN STACK.**
+* 🌍  Based in India
+* 🤝 I'm open to collaborating on An open source, android, and web projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
