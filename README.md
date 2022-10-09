@@ -5,7 +5,7 @@
 
 * 🌱  I’m currently learning ** A.I, MERN STACK.**
 * 🌍  Based in India
-* 🤝 I'm open to collaborating on An open source, android, and web projects
+* 🤝 I'm open to collaborating on an open source, android, and web projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
