@@ -62,11 +62,10 @@
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <b>My GitHub Stats</b>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhimishra-Now&show_icons=true&locale=en" alt="abhimishra-now" /></p>
+![](https://github-readme-stats.vercel.app/api?username=AbhiMishra-Now&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbhiMishra-Now&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiMishra-Now&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhimishra-now&" alt="abhimishra-now" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhimishra-Now&show_icons=true&locale=en&layout=compact" alt="abhimishra-now" /></p>
 
 <a href="http://www.github.com/AbhiMishra-Now"><img src="https://activity-graph.herokuapp.com/graph?username=AbhiMishra-Now&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
