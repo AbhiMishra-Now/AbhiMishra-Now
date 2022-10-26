@@ -1,6 +1,6 @@
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966](https://user-images.githubusercontent.com/79761277/148653539-fe81ffff-7f6a-4a06-80f0-59891a1a04f2.gif) 
   
-![Copy of Github banner](https://user-images.githubusercontent.com/79761277/198076219-9f886932-7e0b-4578-86a0-fb14590efd78.gif)
+ 
 
  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px"> नमस्ते 🙏, I'm Abhishek Mishra</h1>
 <h3 align="center">An enthusiastic Software developer from India</h3>
