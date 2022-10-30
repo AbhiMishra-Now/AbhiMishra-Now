@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/coderak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coderak" height="30" width="40" /></a>
  
-<a href="https://instagram.com/me_abhimishra4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_abhimishra4u" height="30" width="40" /></a>![award (1)](https://user-images.githubusercontent.com/79761277/198893774-e14a6c2a-59f6-4c8e-9cb6-4a9129d920bc.png)
+<a href="https://instagram.com/me_abhimishra4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_abhimishra4u" height="30" width="40" /></a> 
 
  
 <a href="https://www.hackerrank.com/Abhim123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@Abhim123" height="30" width="40" /></a>
