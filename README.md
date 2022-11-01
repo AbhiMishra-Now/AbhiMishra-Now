@@ -11,16 +11,9 @@
 * 🤝 I'm open to collaborating on an Open Source, Android, and Web projects.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align= right">              
 <a href="https://www.linkedin.com/in/coderak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coderak" height="30" width="40" /></a>
  
-<a href="https://instagram.com/me_abhimishra4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_abhimishra4u" height="30" width="40" /></a> 
-
- 
-<a href="https://www.hackerrank.com/Abhim123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@Abhim123" height="30" width="40" /></a>
- 
-<a href="https://www.hackerearth.com/@abhishek9756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhishek9756" height="30" width="40" /></a>
-</p>
 
 <p align="left"> <a href="https://www.github.com/AbhiMishra-Now" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="30" /></a></p>
 
