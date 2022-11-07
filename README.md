@@ -6,7 +6,7 @@
 <h3 align="center">An enthusiastic Software developer from India</h3>
  
 
-* 🌱  I’m currently learning ** CLOUD, MERN STACK.**
+* 🌱  I’m currently learning ~ CLOUD, DevOps.
 * 🌍  Based in India
 * 🤝 I'm open to collaborating on an Open Source, Android, and Web projects.
 
