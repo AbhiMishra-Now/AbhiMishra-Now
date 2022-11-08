@@ -8,7 +8,7 @@
 
 * 🌱  I’m currently learning ~ CLOUD, DevOps.
 * 🌍  Based in India
-* 🤝 I'm open to collaborating on an Open Source, Android, and Web projects.
+* 🤝 I'm open to collaborating on Open Source, Android, and Web projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align= right">              
