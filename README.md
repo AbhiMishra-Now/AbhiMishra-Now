@@ -10,10 +10,8 @@
 * 🌍  Based in India
 * 🤝 I'm open to collaborating on Open Source, Android, and Web projects.
 
-![aws-cloud-quest-cloud-practitioner (1)](https://user-images.githubusercontent.com/79761277/204348429-69be97b6-1c82-4b14-b804-bdad50074bb0.png)
-
 <h3 align="left">Connect with me:</h3>
-<p align= right">              
+<p align= left">              
 <a href="https://www.linkedin.com/in/coderak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coderak" height="30" width="40" /></a>
  
 
@@ -60,6 +58,9 @@
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
  </a> 
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+ 
+## Certification
+![aws-cloud-quest-cloud-practitioner (1)](https://user-images.githubusercontent.com/79761277/204348429-69be97b6-1c82-4b14-b804-bdad50074bb0.png)     
 
 <b>My GitHub Stats</b>
 
