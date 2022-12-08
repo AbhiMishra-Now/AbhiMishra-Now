@@ -31,8 +31,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiMishra-Now&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
-<a href="http://www.github.com/AbhiMishra-Now"><img src="https://activity-graph.herokuapp.com/graph?username=AbhiMishra-Now&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimishra-now&label=Profile%20views&color=0e75b6&style=flat" alt="abhimishra-now" /> </p>
 
 ## 🏆 GitHub Trophies
