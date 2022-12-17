@@ -36,6 +36,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbhiMishra-Now&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-## ![award (1)](https://user-images.githubusercontent.com/79761277/198893789-60c96550-177c-496d-b5d7-c75b451e5a4f.png) Badges
 [![@abhis_g_o_a_t's Holopin board](https://holopin.io/api/user/board?user=abhis_g_o_a_t)](https://holopin.io/@abhis_g_o_a_t)
 
