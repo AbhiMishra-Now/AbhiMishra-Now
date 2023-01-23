@@ -19,7 +19,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/coderak) 
 [![Github](https://img.shields.io/badge/Github-12100E?logo=github&logoColor=white)](https://github.com/AbhiMishra-Now)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abhiscosmos)
-[![Medium](https://img.shields.io/badge/Dev.to-12100E?logo=Dev.to&logoColor=white)](https://dev.to/abhi_mishra)              
+[![Dev.to](https://img.shields.io/badge/Dev.to-12100E?logo=Dev.to&logoColor=white)](https://dev.to/abhi_mishra)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=Medium&logoColor=white)](https://Medium.com/abhi-mishra)               
 
 <h3 align="left">Languages and Tools:</h3>
                 
