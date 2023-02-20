@@ -6,7 +6,7 @@
 <h3 align="center">An enthusiastic Software developer from India</h3>
  
 
-* 🌱  I’m currently learning ~ CLOUD, DevOps.
+* 🌱  I’m currently learning ~ CLOUD, DevOps. ![ezgif-4-f86a69addc](https://user-images.githubusercontent.com/79761277/220165669-abb1101e-e9f7-4636-bc4c-d89c12b3bbe7.gif)
 * 🌍  Based in India
 * 👯 I’m up for a software development Roles and freelance works.
 * 🤝 Open to collaborate Open Source, Android, and Web projects.
