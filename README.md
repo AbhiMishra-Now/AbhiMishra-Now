@@ -9,7 +9,7 @@
 * 🌱  I’m currently learning ~ Cloud, DevOps. ![ezgif-4-f86a69addc](https://user-images.githubusercontent.com/79761277/220165669-abb1101e-e9f7-4636-bc4c-d89c12b3bbe7.gif)
 * 🌍  Based in India
 * 👯 I’m up for a software development Roles and freelance works.
-* 🤝 Open to collaborate Open Source, Android, and Web projects.
+* 🤝 Open to collaborate on an Open Source, Android, and Web projects.
 
 ![aws-cloud-quest-cloud-practitioner (1)](https://user-images.githubusercontent.com/79761277/204348429-69be97b6-1c82-4b14-b804-bdad50074bb0.png)
 ![DEV HACTOBERFEST BADGE (1)](https://user-images.githubusercontent.com/79761277/205975153-1d50ad6c-5688-4a03-a097-82d10fcc766a.png)
