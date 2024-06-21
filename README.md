@@ -7,8 +7,8 @@
  
 
 * 🌱  I’m currently learning ~ Cloud, DevOps. ![ezgif-4-f86a69addc](https://user-images.githubusercontent.com/79761277/220165669-abb1101e-e9f7-4636-bc4c-d89c12b3bbe7.gif)
-* 👨‍🏫  Annotating AI
-* 🌍  Based in India
+* 👨‍🏫  Annotating AI.
+* 🌍  Based in India.
 * 👯 I’m up for software development Roles and freelance work.
 * 🤝 Open to collaborate on Open Source, Android, and Web projects.
 
