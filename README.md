@@ -14,6 +14,9 @@
 
 ![aws-cloud-quest-cloud-practitioner (1)](https://user-images.githubusercontent.com/79761277/204348429-69be97b6-1c82-4b14-b804-bdad50074bb0.png)
 ![DEV HACTOBERFEST BADGE (1)](https://user-images.githubusercontent.com/79761277/205975153-1d50ad6c-5688-4a03-a097-82d10fcc766a.png)
+![Postman - Postman API Fundamentals Student Expert - 2024-08-21](https://github.com/user-attachments/assets/46271671-724e-4353-abbf-0b8abe3d5bec)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align= left">            
